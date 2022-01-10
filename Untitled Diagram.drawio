@@ -1,1 +1,147 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T18:31:47.227Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.2.4" etag="2UgKkPJO437DReVctrF_" type="github"><diagram id="NyNl_-CsCVZi3P3l9Gul">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-10T20:50:07.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="MmiG5az_btPun_0O99n-" version="16.2.4" type="github">
+  <diagram id="NyNl_-CsCVZi3P3l9Gul" name="Page-1">
+    <mxGraphModel dx="2272" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5dXUImhxLpX839lEArjx-1" value="&lt;h1 style=&quot;text-align: center&quot;&gt;&lt;span&gt;&lt;u&gt;Magic &amp;amp; Blood&lt;/u&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp;&lt;b&gt;&lt;u&gt;The Tale of the Lost Druid&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;Madness is difficult to conquer. Once it is mastered....your skills are enhanced upon unimaginable heights. If you take this your addiction will begin. There is no going back from accepting this fate. Your control over this journey will only push you to the end. Accept that and your journey will lead you to the end.&lt;br&gt;&lt;br&gt;Game Setting:&lt;br&gt;You play as a Druid (Wizard Class Type) in the woods. Its dark and a storm is coming. You turn to a dark tower in the thick woods. You enter into the tower and shut the wooden door. Once you enter the tower a dead wizard lies on the ground in front of the player. The player walks up to the body and suddenly gets hit in the head and falls to the ground unconscious.&amp;nbsp;&lt;br&gt;The player awakes in a chair where the players limbs and head is strapped into the chair.&amp;nbsp; An old crazed wizard laughing hysterically approaches you slowly in the tower. Old wizard tells you he has to give you the power of blood for it is the player he has been waiting for. The true caster of Adrion(The creator of Blood Magic). The Wizard then conjures a spell that removes the infected adrenochrome blood in his body into the player.&amp;nbsp;&lt;br&gt;The old mans corps falls to the ground lifeless while the player is knocked-out from the blood intake.&lt;br&gt;&lt;br&gt;The player awakes in the forest(Player is still knocked-out in the tower). Shouting of a man and screaming from a woman could be herd down the path ahead. (The forest is dark and stormy as before). The Game Begins:&lt;br&gt;Intro:&lt;br&gt;Player walks down the path and sees a man trying hurt this woman.&lt;br&gt;--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------&lt;br&gt;Game is paused: Player is instructed with UI on how combat works.&lt;br&gt;Player will go through the various basics of spell casting/Combat training.&amp;nbsp;&lt;br&gt;1. Basic Attack&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;2. Heavy Attack&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;3.Heal&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;4.Evade&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="810" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5dXUImhxLpX839lEArjx-5" target="5dXUImhxLpX839lEArjx-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-5" value="Player Class" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="460" width="360" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-6" value="Player_Name-String&#xa;Player_Health :  100&#xa;Player_Adrinochrome_Level: 30&#xa;Player_Adrinochrome_CrystalCount: 0&#xa;Player_Spell_RechargeRate;//filled in by spell class&#xa;Player_Level: 0;&#xa;Player_XP_Count=0;&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5dXUImhxLpX839lEArjx-5">
+          <mxGeometry y="26" width="360" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-13" value="Spell Class" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="5dXUImhxLpX839lEArjx-5">
+          <mxGeometry y="190" width="360" height="70" as="geometry">
+            <mxRectangle y="190" width="310" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-14" value="//This class contains all of the stats for spells in the game &#xa;that the player is able to use." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5dXUImhxLpX839lEArjx-13">
+          <mxGeometry y="26" width="360" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-9" value="World Class" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="470" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-10" value="Player Object&#xa;Interactables Object&#xa;Enemy Object&#xa;Boss Object&#xa;Story Object" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5dXUImhxLpX839lEArjx-9">
+          <mxGeometry y="26" width="250" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.248;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5dXUImhxLpX839lEArjx-17" target="5dXUImhxLpX839lEArjx-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="92" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-17" value="Enemy Class" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="670" width="300" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-18" value="//This class contains all of the stats of various enemies&#xa;the player will face." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5dXUImhxLpX839lEArjx-17">
+          <mxGeometry y="26" width="300" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-23" value="Boss Class" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="5dXUImhxLpX839lEArjx-17">
+          <mxGeometry y="110" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-24" value="//This class contains all of the stats for a boss the&#xa;player will face on their travels." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5dXUImhxLpX839lEArjx-23">
+          <mxGeometry y="26" width="300" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.003;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5dXUImhxLpX839lEArjx-30" target="5dXUImhxLpX839lEArjx-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="428" y="471" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.964;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5dXUImhxLpX839lEArjx-30" target="5dXUImhxLpX839lEArjx-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-30" value="Interactables Class" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="840" width="390" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-33" value="//This is the most complex class. This class contains all of the items &#xa;the player will be able to interact with in the game. &#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5dXUImhxLpX839lEArjx-30">
+          <mxGeometry y="26" width="390" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-38" value="Healing Class" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="5dXUImhxLpX839lEArjx-30">
+          <mxGeometry y="110" width="390" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-39" value="//This class will contain all the healing properties in the game that&#xa;will assist the player." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5dXUImhxLpX839lEArjx-38">
+          <mxGeometry y="26" width="390" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-34" value="Adrenochrome Boost Class" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="5dXUImhxLpX839lEArjx-30">
+          <mxGeometry y="190" width="390" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-35" value="//This class will contains all of the adrenochrome boosting properties&#xa;the player will come across in the game." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5dXUImhxLpX839lEArjx-34">
+          <mxGeometry y="26" width="390" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-42" value="Permanent Boost Class" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="5dXUImhxLpX839lEArjx-34">
+          <mxGeometry y="70" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-43" value="//This class contains all of the objects that will boost the player &#xa;permanently in the game." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5dXUImhxLpX839lEArjx-42">
+          <mxGeometry y="26" width="390" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.405;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5dXUImhxLpX839lEArjx-48" target="5dXUImhxLpX839lEArjx-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-10" y="530" />
+              <mxPoint x="-10" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-48" value="Story Class" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="530" width="320" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-49" value="//This class will contain cutscenes/text/dialouge&#xa;that has to do with explaining the story elements&#xa;of the game" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5dXUImhxLpX839lEArjx-48">
+          <mxGeometry y="26" width="320" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-69" value="NPC Class" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="5dXUImhxLpX839lEArjx-48">
+          <mxGeometry y="90" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-70" value="//This class will contain all of the elements an NPC would &#xa;have for the game" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5dXUImhxLpX839lEArjx-69">
+          <mxGeometry y="26" width="320" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-58" value="Damage_Spells Class" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="840" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-59" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5dXUImhxLpX839lEArjx-58">
+          <mxGeometry y="26" width="200" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-62" value="Healing_Spells Class" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="840" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-63" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5dXUImhxLpX839lEArjx-62">
+          <mxGeometry y="26" width="200" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.86;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5dXUImhxLpX839lEArjx-14" target="5dXUImhxLpX839lEArjx-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.56;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5dXUImhxLpX839lEArjx-14" target="5dXUImhxLpX839lEArjx-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-66" value="Blocking_Spells Class" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="840" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-67" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="5dXUImhxLpX839lEArjx-66">
+          <mxGeometry y="26" width="200" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5dXUImhxLpX839lEArjx-14" target="5dXUImhxLpX839lEArjx-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5dXUImhxLpX839lEArjx-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5dXUImhxLpX839lEArjx-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-40" y="712" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-40" y="908" />
+              <mxPoint x="-40" y="712" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
